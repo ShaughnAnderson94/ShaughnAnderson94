@@ -2,7 +2,7 @@
 
 ## What do they look like?
 
-![A picture of Shaughn smiling at the camera they are wearing a black top. They have curly hair and glasses](/photos/aboutMe.jpg { width: 200px; })
+![A picture of Shaughn smiling at the camera they are wearing a black top. They have curly hair and glasses]{ width: 200px; }(/photos/aboutMe.jpg)
 
 at least on a good hair day
 
