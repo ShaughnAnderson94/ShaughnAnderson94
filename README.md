@@ -2,6 +2,7 @@
 
 ## What do they look like?
 
+<img src="/photos/aboutMe.jpg" alt="A picture of Shaughn smiling at the camera they are wearing a black top. They have curly hair and glasses" width="200"/>
 ![A picture of Shaughn smiling at the camera they are wearing a black top. They have curly hair and glasses](/photos/aboutMe.jpg)
 
 at least on a good hair day
